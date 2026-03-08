@@ -38,6 +38,8 @@
 			<Item Name="Set Default FP Background Color.vi" Type="VI" URL="../Set Default FP Background Color.vi"/>
 			<Item Name="Adjust Text Label.vi" Type="VI" URL="../Adjust Text Label.vi"/>
 		</Item>
+		<Item Name="Format Error Terminals.vi" Type="VI" URL="../Format Error Terminals.vi"/>
+		<Item Name="Format Error Properties.vi" Type="VI" URL="../Format Error Properties.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="openg_array.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/openg_array.lvlib"/>
