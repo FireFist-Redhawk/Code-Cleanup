@@ -28,8 +28,8 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Adjust Text Label.vi" Type="VI" URL="../Adjust Text Label.vi"/>
 			<Item Name="Arrange Control Labels.vi" Type="VI" URL="../Arrange Control Labels.vi"/>
-			<Item Name="Change Error Properties.vi" Type="VI" URL="../Change Error Properties.vi"/>
 			<Item Name="Format Control Labels.vi" Type="VI" URL="../Format Control Labels.vi"/>
+			<Item Name="Format Error Properties.vi" Type="VI" URL="../Format Error Properties.vi"/>
 			<Item Name="Format Error Terminals.vi" Type="VI" URL="../Format Error Terminals.vi"/>
 			<Item Name="Hide All Iteration Terminals.vi" Type="VI" URL="../Hide All Iteration Terminals.vi"/>
 			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
