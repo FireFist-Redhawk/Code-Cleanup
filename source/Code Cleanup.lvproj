@@ -28,11 +28,11 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Adjust Text Label.vi" Type="VI" URL="../Adjust Text Label.vi"/>
 			<Item Name="Arrange Control Labels.vi" Type="VI" URL="../Arrange Control Labels.vi"/>
+			<Item Name="Code Cleanup.vi" Type="VI" URL="../Code Cleanup.vi"/>
 			<Item Name="Format Control Labels.vi" Type="VI" URL="../Format Control Labels.vi"/>
 			<Item Name="Format Error Properties.vi" Type="VI" URL="../Format Error Properties.vi"/>
 			<Item Name="Format Error Terminals.vi" Type="VI" URL="../Format Error Terminals.vi"/>
 			<Item Name="Hide All Iteration Terminals.vi" Type="VI" URL="../Hide All Iteration Terminals.vi"/>
-			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 			<Item Name="Remove Autogrow from Structures.vi" Type="VI" URL="../Remove Autogrow from Structures.vi"/>
 			<Item Name="Rename Window Title to VI Name.vi" Type="VI" URL="../Rename Window Title to VI Name.vi"/>
 			<Item Name="Set Conn Pane Recommended to Required.vi" Type="VI" URL="../Set Conn Pane Recommended to Required.vi"/>
