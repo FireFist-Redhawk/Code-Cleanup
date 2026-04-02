@@ -40,7 +40,7 @@
 			<Item Name="Set Default VI Icon Properties.vi" Type="VI" URL="../Set Default VI Icon Properties.vi"/>
 			<Item Name="Set Minimum Pane Size to (0,0).vi" Type="VI" URL="../Set Minimum Pane Size to (0,0).vi"/>
 			<Item Name="Set Origin to (0,0).vi" Type="VI" URL="../Set Origin to (0,0).vi"/>
-			<Item Name="Top Lvl.vi" Type="VI" URL="../Top Lvl.vi"/>
+			<Item Name="Toppp Lvl.vi" Type="VI" URL="../Toppp Lvl.vi"/>
 			<Item Name="Unshow Controls as Icons.vi" Type="VI" URL="../Unshow Controls as Icons.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
