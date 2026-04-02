@@ -28,7 +28,6 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Adjust Text Label.vi" Type="VI" URL="../Adjust Text Label.vi"/>
 			<Item Name="Arrange Control Labels.vi" Type="VI" URL="../Arrange Control Labels.vi"/>
-			<Item Name="Code Cleanup.vi" Type="VI" URL="../Code Cleanup.vi"/>
 			<Item Name="Format Control Labels.vi" Type="VI" URL="../Format Control Labels.vi"/>
 			<Item Name="Format Error Properties.vi" Type="VI" URL="../Format Error Properties.vi"/>
 			<Item Name="Format Error Terminals.vi" Type="VI" URL="../Format Error Terminals.vi"/>
@@ -41,6 +40,7 @@
 			<Item Name="Set Default VI Icon Properties.vi" Type="VI" URL="../Set Default VI Icon Properties.vi"/>
 			<Item Name="Set Minimum Pane Size to (0,0).vi" Type="VI" URL="../Set Minimum Pane Size to (0,0).vi"/>
 			<Item Name="Set Origin to (0,0).vi" Type="VI" URL="../Set Origin to (0,0).vi"/>
+			<Item Name="Top Lvl.vi" Type="VI" URL="../Top Lvl.vi"/>
 			<Item Name="Unshow Controls as Icons.vi" Type="VI" URL="../Unshow Controls as Icons.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
