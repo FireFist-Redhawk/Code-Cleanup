@@ -38,6 +38,7 @@
 				<Item Name="Set Conn Pane Recommended to Required.vi" Type="VI" URL="../SubVIs/Set Conn Pane Recommended to Required.vi"/>
 				<Item Name="Set Default Control Style.vi" Type="VI" URL="../SubVIs/Set Default Control Style.vi"/>
 				<Item Name="Set Default FP Background Color.vi" Type="VI" URL="../SubVIs/Set Default FP Background Color.vi"/>
+				<Item Name="Set Default Grid Sizes.vi" Type="VI" URL="../SubVIs/Set Default Grid Sizes.vi"/>
 				<Item Name="Set Default VI Icon Properties.vi" Type="VI" URL="../SubVIs/Set Default VI Icon Properties.vi"/>
 				<Item Name="Set Minimum Pane Size to (0,0).vi" Type="VI" URL="../SubVIs/Set Minimum Pane Size to (0,0).vi"/>
 				<Item Name="Set Origin to (0,0).vi" Type="VI" URL="../SubVIs/Set Origin to (0,0).vi"/>
